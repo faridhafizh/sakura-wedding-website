@@ -2,9 +2,6 @@
 
 Selamat datang di repositori kode untuk website undangan pernikahan interaktif Haruka & Yuto! Website ini dirancang untuk memberikan informasi detail mengenai perayaan cinta kami dan memudahkan tamu untuk melakukan RSVP.
 
-![Contoh Tampilan Website Pernikahan](URL_SCREENSHOT_WEBSITE_ANDA_DISINI)
-*(Ganti URL_SCREENSHOT_WEBSITE_ANDA_DISINI dengan URL ke gambar screenshot website Anda. Anda bisa mengunggah screenshot ke tab "Issues" di repo ini lalu salin URL gambarnya, atau gunakan layanan image hosting.)*
-
 ## ✨ Fitur Utama
 
 *   **Desain Elegan Bertema Sakura:** UI/UX yang lembut dan menenangkan dengan sentuhan bunga sakura.
